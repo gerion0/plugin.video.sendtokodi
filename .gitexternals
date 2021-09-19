@@ -1,0 +1,5 @@
+[external "yt-dlp"]
+	path = lib/yt_dlp
+	url = https://github.com/yt-dlp/yt-dlp.git
+	branch = release
+	vcs = git
