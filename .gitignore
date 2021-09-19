@@ -1,2 +1,3 @@
 .idea
 lib/yt_dlp
+__pycache__
