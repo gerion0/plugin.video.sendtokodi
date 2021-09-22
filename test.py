@@ -21,4 +21,4 @@ if __name__ == "__main__":
                         help="Extract only an audio stream.")
     args = parser.parse_args()
 
-    extract(args.URL, with_dash=args.with_dash, only_audio=args.only_audio)
+    print(extract(args.URL, with_dash=args.with_dash, only_audio=args.only_audio))
